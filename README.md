@@ -21,7 +21,7 @@ Criado utilizando o `DevC++` quando eu estava aprendendo C, então peço desculp
 |-----------------------------------------------------------|------------------------------------------------------|
 
 ## Execução
-O programa só funciona corretamente no Windows ou através do [Wine](https://pt.wikipedia.org/wiki/Wine), para executar o programa execute [`Criptografia.exe`](Criptografia.exe).
+O programa só funciona corretamente no Windows ou através do [Wine](https://pt.wikipedia.org/wiki/Wine), para executar o programa execute [`Criptografia.exe`](Criptografia.exe). Para navegar nos menus, utilize `w`,`a`,`s`,`d` e `Enter`
 
 > A mensagem criptografada será criada através de um arquivo `.txt`, inclusive no repositório contém um com um ~~Easter Egg~~ exemplo!
 
